@@ -1,4 +1,4 @@
-# NX_Firmware 大气层1.6.2最高支持17.0.1系统
+# NX_Firmware 大气层1.7.0最高支持18.0.1系统
 Firmware for the Nintendo Switch
 
 # Utility
